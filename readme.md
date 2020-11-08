@@ -69,17 +69,17 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Intake (week 1)
 -uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
-**Je startniveau:** -Blauw-
+**Je startniveau:** Blauw
 
-**Je focus:** -Surface plane-
+**Je focus:** Surface plane
 
-**Je opdracht:** -https://www.asos.com/nl/heren/-
+**Je opdracht:** https://www.asos.com/nl/heren/
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/Asos-Homepage.png" width="327px" alt="ASOS Homepagina">
+<img src="images/ASOS-Homepage.png" width="327px" alt="ASOS Homepagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/Asos-Kledingpage.png" width="327px" alt="ASOS Kledingpagina">
+<img src="images/ASOS-Kledingpage.png" width="327px" alt="ASOS Kledingpagina">
 
