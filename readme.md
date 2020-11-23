@@ -63,7 +63,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Breakdownschets (week 1)
 
 -uitwerken voor de 1e werkgroep - eind van de eerste week-
-file:///Users/daanthai/Documents/CMD%202020-2021/CMD%20Blok%202/Frotend%20Development/Week1/FED%20-%20Breakdownschets.pdf
+<img src="images/FED - Breakdownschets-ASOS.png" width="327px" alt="ASOS Homepagina">
 
 ## Intake (week 1)
 -uitwerken voor de kick-off werkgroep - begin van de eerste week-
