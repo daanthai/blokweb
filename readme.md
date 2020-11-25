@@ -41,7 +41,7 @@ Access Denied. (z.d.). Geraadpleegd op 25 november 2020, van https://www.asos.co
 
 Navigatie maken ging goed, alleen positioneren vind ik nog moeilijk.
 
-<img src="images/FED - Breakdownschets1.png" width="327px" alt="breakdownschets">
+<img src="images/Screenshot 1.0 - Breakdownschets1.png" width="327px" alt="breakdownschets">
 Navigatie bijna af en bezig met main.
 
 ### Agenda voor meeting
