@@ -6,9 +6,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
+1. -ASOS-
+Access Denied. (z.d.). Geraadpleegd op 25 november 2020, van https://www.asos.com/nl/heren/
 2. -bron 2-
-3. -...-
+
 
 
 
@@ -38,7 +39,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Navigatie maken ging goed, alleen positioneren vind ik nog moeilijk.
 
 **Screenshot(s):**
 
