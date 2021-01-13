@@ -8,7 +8,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Bronnenlijst
 1. -ASOS-
 Access Denied. (z.d.). Geraadpleegd op 25 november 2020, van https://www.asos.com/nl/heren/
-2. -bron 2-
+2. -Quora-
+How to position text to center on an image with CSS. (z.d.). Geraadpleegd op 10 januari 2021, van https://www.tutorialspoint.com/How-to-position-text-to-center-on-an-image-with-CSS
 
 
 
@@ -25,13 +26,17 @@ Access Denied. (z.d.). Geraadpleegd op 25 november 2020, van https://www.asos.co
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+Positioneren ging goed.
+
+<img src="images/Screenshot3.0.png" width="327px" alt="Screenshot 1.0 ASOS">
 
 
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+Banner maken ging goed, alleen centreren van de tekst was moeilijk.
+
+<img src="images/Screenshot2.0.png" width="327px" alt="Screenshot 1.0 ASOS">
 
 
 
@@ -55,11 +60,6 @@ Navigatie bijna af en bezig met main.
 | | Hoe zet je een looped video op de achtergrond en kan ik bovenop die videos nog images plaatsen? | | Ik heb een video gekeken voor een hamburger menu, deze video maakt gebruik van jquery. Mag je jquery gebruiken als je snapt wat er gebeurt? |
 | | Hoe goed moet je het minimale javascript onderdeel nou snappen om het te gebruiken? | | |
 | | Is de website https://osu.ppy.sh/home een geschiktere website als blauwe piste in uw mening? | | |
-
-### Verslag van meeting
-
--na afloop snel uitkomsten vastleggen-
-
 
 
 ## Breakdownschets (week 1)

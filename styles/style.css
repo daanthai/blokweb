@@ -8,14 +8,11 @@
 }
 
 body {
-    font-family: helvetica;
+    font-family: futura, helvetica;
 }
 
 /* Header begin */
-
 .navbar {
-    position: fixed;
-    top: 0;
     justify-content: space-between;
     padding: 15px;
     width: 100%;
@@ -89,7 +86,6 @@ form {
 form.toonMenu {
     transform: translateX(0%);
 }
-
 /* Header eind */
 
 /* Main begin */
@@ -110,7 +106,47 @@ form.toonMenu {
     margin: 2em 0 0 0;
 }
 
+.image-kerst {
+    position: relative;
+}
 
+/* bron: https://www.tutorialspoint.com/How-to-position-text-to-center-on-an-image-with-CSS*/
+
+.image-kerst p {
+    position: absolute;
+    text-align: center;
+    background-color: white;
+    font-size: 1.5em;
+    padding: 1em;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.image-ster {
+    position: relative;
+}
+
+.image-ster p {
+    position: absolute;
+    text-align: center;
+    background-color: white;
+    font-size: 1.5em;
+    padding: 1em;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+}
+
+.image-ster p:nth-of-type(2) {
+    position: absolute;
+    text-align: center;
+    background-color: white;
+    font-size: 1.5em;
+    left: 50%;
+    top: 80%;
+    transform: translate(-50%, -50%);
+}
 
 .image-loungekleding {
 
@@ -140,7 +176,9 @@ form.toonMenu {
 .kleding1,
 .kleding2,
 .kleding3,
-.kleding4 {
+.kleding4,
+.kleding5,
+.kleding6 {
     color: black;
     text-decoration: none;
 
@@ -157,18 +195,55 @@ form.toonMenu {
     grid-template-columns: repeat(auto-fit, minmax(7em, 1fr));
 }
 
-h4 {
+h2 {
     text-align: center;
     margin: 1em;
     font-size: 0.8em;
 }
 
+.gif {
+    max-width: 100%;
+    height: auto;
+    margin: 2em 0 0 0;
+}
 
+/* Main eind */
+
+/* Footer begin */
+footer p {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+/* Footer eind */
+
+/* Pagina 2 Loungekleding */
+.titel h1 {
+    text-align: center;
+    margin: 1em;
+}
+
+.image-loungekleding1,
+.image-loungekleding2,
+.image-loungekleding3,
+.image-loungekleding4,
+.image-loungekleding5,
+.image-loungekleding6 {
+
+    max-width: 100%;
+    height: auto;
+
+}
+/* Pagina 2 Loungekleding eind */
+
+/* media query */
 @media (min-width:40em) {
 
     .image1,
     .image2,
-    .image3 {
+    .image3,
+    .gif {
         display: block;
         margin-left: auto;
         margin-right: auto;
