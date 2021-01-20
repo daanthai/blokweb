@@ -10,25 +10,38 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 Access Denied. (z.d.). Geraadpleegd op 25 november 2020, van https://www.asos.com/nl/heren/
 2. -Quora-
 How to position text to center on an image with CSS. (z.d.). Geraadpleegd op 10 januari 2021, van https://www.tutorialspoint.com/How-to-position-text-to-center-on-an-image-with-CSS
+3. - ASOS-
+ASOS afbeeldingen. (z.d.). [foto]. Geraadpleegd van https://www.asos.com/nl/heren/
 
 
+
+## Toegankelijksheidstest
+
+Ik heb door middel van een screenreader de toegankelijkheid van mijn website getest. Dit kwam eruit: Als je naar safari gaat, leest de VoiceOver de naam van de website. Vervolgens kan je de website besturen door de command knop en pijlen. Je krijgt dan te horen waar je op geselecteerd bent. je kan dan luisteren of je op een link bent. Wanneer je op en link bent, kan je de link openen door command + spatiebalk te drukken.
+
+<img src="images/Screenshot voiceover.png" width="327px" alt="Screenshot 1.0 ASOS">
+
+Ik vind dit erg interessant, omdat het erg belangrijk is dat iedereen toegang heeft op je website, zoals voor blinden of slechtzienden. Je denk er nooit bij na, dat ook zulke mensen ook op het internet willen en het kunnen gebruiken zonder moeite.
 
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+Dit ging goed: De navigatiebalk ziet er uiteindelijk goed uit. Ik heb daar de eerste paar weken eraan gewerkt.
+De afbeeldingen naast elkaar zetten was gelukt, door middel van een grid. De banners centreren was ook gelukt, door de hulp van andere klasgenoten.
 
-**Screenshot(s):**
+Dit was lastig: Het menu werkend maken was erg moeilijk, omdat ik niet heel goed ben in javascript, maar door de oefeningen te doen begreep ik er veel meer van. Het is mij dus wel gelukt om de menu werkend te maken. Ook was het lastig om de tekst op een afbeelding te zetten, omdat de afbeelding responsive zijn en daardoor de tekst niet op de afbeelding blijft staan.
 
--screenshot(s) van je eindresultaat-
+Ik vergat ook dat je hover transition kon gebruiken en focus. Ik heb daarom bij de herkansing dit toegepast.
 
-
+<img src="images/Screenshot4.1.png" width="327px" alt="Screenshot ASOS">
+<img src="images/Screenshot4.2.png" width="327px" alt="Screenshot ASOS">
+<img src="images/Screenshot4.3.png" width="327px" alt="Screenshot ASOS">
 
 ## Voortgang 3 (week 6)
 
 Positioneren ging goed.
 
-<img src="images/Screenshot3.0.png" width="327px" alt="Screenshot 1.0 ASOS">
+<img src="images/Screenshot3.0.png" width="327px" alt="Screenshot 3.0 ASOS">
 
 
 
@@ -36,7 +49,7 @@ Positioneren ging goed.
 
 Banner maken ging goed, alleen centreren van de tekst was moeilijk.
 
-<img src="images/Screenshot2.0.png" width="327px" alt="Screenshot 1.0 ASOS">
+<img src="images/Screenshot2.0.png" width="327px" alt="Screenshot 2.0 ASOS">
 
 
 

@@ -34,9 +34,11 @@ nav ul {
     margin: 0em 0.5em;
 }
 
+/* Buttons begin */
 .menuButton {
     font-size: 1.5em;
 }
+
 
 .searchButton {
     font-size: 1.5em;
@@ -63,6 +65,9 @@ nav ul {
     margin: 0em 0.5em;
 }
 
+/* Buttons eind */
+
+/* Menu begin */
 form {
     background-color: black;
     position: absolute;
@@ -86,6 +91,56 @@ form {
 form.toonMenu {
     transform: translateX(0%);
 }
+
+.startpagina,
+.nieuw,
+.kleding,
+.schoenen {
+    padding: 1em;
+    transition: 1s;
+}
+
+.startpagina:hover {
+    background-color: white;
+    color: black;
+}
+
+.nieuw:hover {
+    background-color: white;
+    color: black;
+}
+
+.kleding:hover {
+    background-color: white;
+    color: black;
+}
+
+.schoenen:hover {
+    background-color: white;
+    color: black;
+}
+
+.startpagina:focus {
+    background-color: #ebd934;
+    color: #eb4034;
+}
+
+.nieuw:focus {
+    background-color: #ebd934;
+    color: #eb4034;
+}
+
+.kleding:focus {
+    background-color: #ebd934;
+    color: #eb4034;
+}
+
+.schoenen:focus {
+    background-color: #ebd934;
+    color: #eb4034;
+}
+
+/* Menu eind */
 /* Header eind */
 
 /* Main begin */
@@ -138,39 +193,73 @@ form.toonMenu {
     transform: translate(-50%, -50%);
 }
 
-.image-ster p:nth-of-type(2) {
+/* SHOP NU! Button */
+.image-ster button {
     position: absolute;
     text-align: center;
-    background-color: white;
+    color: white;
+    background-color: black;
     font-size: 1.5em;
+    padding: 1em;
     left: 50%;
     top: 80%;
     transform: translate(-50%, -50%);
+    text-decoration: none;
+    border: 3px solid white;
+    transition-duration: 0.5s;
 }
+
+.image-ster button:hover {
+    background-color: white;
+    color: black;
+}
+
+.image-ster button:focus {
+    background-color: #ebd934;
+    color: #eb4034;
+}
+
+/* SHOP NU! Button */
 
 .image-loungekleding {
 
     max-width: 100%;
     height: auto;
-
+    transition: box-shadow .5s;
 }
 
 .image-kerstkleding {
     max-width: 100%;
     height: auto;
-
+    transition: box-shadow .5s;
 }
 
 .image-winterkleding {
     max-width: 100%;
     height: auto;
-
+    transition: box-shadow .5s;
 }
 
 .image-sneakers {
     max-width: 100%;
     height: auto;
+    transition: box-shadow .5s;
+}
 
+.image-loungekleding:hover {
+    box-shadow: 10px 10px 5px grey;
+}
+
+.image-kerstkleding:hover {
+    box-shadow: 10px 10px 5px grey;
+}
+
+.image-winterkleding:hover {
+    box-shadow: 10px 10px 5px grey;
+}
+
+.image-sneakers:hover {
+    box-shadow: 10px 10px 5px grey;
 }
 
 .kleding1,
@@ -184,6 +273,54 @@ form.toonMenu {
 
 }
 
+.image-loungekleding1:hover {
+    box-shadow: 10px 10px 5px grey;
+}
+
+.image-loungekleding2:hover {
+    box-shadow: 10px 10px 5px grey;
+}
+
+.image-loungekleding3:hover {
+    box-shadow: 10px 10px 5px grey;
+}
+
+.image-loungekleding4:hover {
+    box-shadow: 10px 10px 5px grey;
+}
+
+.image-loungekleding5:hover {
+    box-shadow: 10px 10px 5px grey;
+}
+
+.image-loungekleding6:hover {
+    box-shadow: 10px 10px 5px grey;
+}
+
+
+.kleding1:focus {
+    color: #eb4034;
+}
+
+.kleding2:focus {
+    color: #eb4034;
+}
+
+.kleding3:focus {
+    color: #eb4034;
+}
+
+.kleding4:focus {
+    color: #eb4034;
+}
+
+.kleding5:focus {
+    color: #eb4034;
+}
+
+.kleding6:focus {
+    color: #eb4034;
+}
 
 .list_kleding {
 
@@ -192,7 +329,7 @@ form.toonMenu {
     padding: 0 2em 2em 2em;
     display: grid;
     grid-gap: 2em;
-    grid-template-columns: repeat(auto-fit, minmax(7em, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(10em, 1fr));
 }
 
 h2 {
@@ -233,11 +370,13 @@ footer p {
 
     max-width: 100%;
     height: auto;
+    transition: .5s;
 
 }
+
 /* Pagina 2 Loungekleding eind */
 
-/* media query */
+/* media query begin */
 @media (min-width:40em) {
 
     .image1,
@@ -250,3 +389,5 @@ footer p {
         width: 50%;
     }
 }
+
+/* media query eind */

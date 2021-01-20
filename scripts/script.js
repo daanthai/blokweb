@@ -1,7 +1,7 @@
 // JavaScript Document
 var deButton = document.querySelector(".hamburgerMenu");
 
-function menuHeenEnWeer(){
+function menuHeenEnWeer() {
     let hetMenu = document.querySelector("form");
     hetMenu.classList.toggle("toonMenu");
 }
